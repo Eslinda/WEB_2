@@ -1,0 +1,30 @@
+{
+  "name": "web_2",
+  "version": "1.0.0",
+  "description": "homework web_2",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "eslint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eslinda/WEB_2.git"
+  },
+  "author": "Tatiana Lyapina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eslinda/WEB_2/issues"
+  },
+  "homepage": "https://github.com/Eslinda/WEB_2#readme",
+  "devDependencies": {
+    "eslint": "^8.37.0",
+    "prettier": "^2.8.1"
+  },
+  "dependencies": {
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-unicorn": "^46.0.0"
+  }
+}
